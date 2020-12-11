@@ -1,0 +1,25 @@
+
+
+.text-block {
+border: 1px solid #0000ff;
+padding:calc(14px + (20 - 14) * ((100vw - 320px) / (1300 - 320)));
+margin: calc(10px + (20 - 10) * ((100vw - 320px) / (1300 - 320))) auto;
+background-color: #55AAFFFF;
+font-size: calc(14px + (20 - 14) * ((100vw - 320px) / (1300 - 320)));
+font-family: arial;
+line-height: 1.5;
+/*calc(20px + (50 - 20) * ((100vw - 320px) / (1300 - 320)));*/
+/*calc(14px + (20 - 14) * ((100vw - 320px) / (1300 - 320)));*/
+
+}
+
+.text-block2 {
+border: 1px solid #0000ff;
+padding:20px;
+margin: 20px auto;
+background-color: #55AAFFFF;
+font-size: 20px;
+font-family: arial;
+line-height: 1.5;
+
+}
