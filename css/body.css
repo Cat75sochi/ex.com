@@ -5,6 +5,9 @@ main{
 	margin-top:calc(13px + (30 - 13) * ((100vw - 320px) / (1024 - 320)));
 
  }
+h2 {
+ 	text-align: center;
+ }
 
 .first {
 	min-height: 100vh;
