@@ -1,0 +1,98 @@
+
+
+
+main{ 
+	margin-top:calc(13px + (30 - 13) * ((100vw - 320px) / (1024 - 320)));
+
+ }
+
+.first {
+	min-height: 100vh;
+	background-image: url(../images/fon500.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+	border-bottom: 1px solid #0000ff;
+	padding: 5px;
+	
+}
+
+@media (max-width: 700px)
+{
+	.first{
+	background-image: url(../images/123.png);
+	background-repeat:repeat-y;
+	background-position: center 5px;
+	background-size:100% auto;
+
+	}}
+
+	.title {
+	font-size:  calc(25px + (40 - 25) * ((100vw - 320px) / (1024 - 320)));
+	color: #0044CEFF;
+	line-height: 1.5;
+	letter-spacing: 2px;
+	background: rgba(255,255,255, 0.5);
+
+}
+
+.social-block {
+	display: inline-block;
+	margin-top: 50px;
+
+
+
+}
+
+.insta { 
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	background-image: url(../images/348.jpg);
+
+ }
+
+
+ .whatsapp {
+ 	display: inline-block;
+  	width: 50px;
+	height: 50px;
+	background-image: url(../images/348.jpg);
+	background-position: 60px 0px;
+
+ }
+
+.second { 
+	background-image: url(../images/123.png);
+	background-repeat:repeat-y;
+	background-position: center 5px;
+	background-size:100% auto;
+	min-height: 100vh;
+	font-size:  calc(20px + (30 - 20) * ((100vw - 320px) / (1024 - 320)));
+	line-height: 1.5;
+	letter-spacing: 2px;
+
+
+}
+.second>p{
+color: #0044CEFF;
+	text-align: center;
+}
+
+
+
+table tr td {
+	text-align: center;
+
+	border: 1px solid #0000ff;
+	
+}
+table {
+	width: 100%;
+	border-spacing: 10px 10px;
+	margin: auto;
+	font-size: 20px;
+
+
+}
+
+

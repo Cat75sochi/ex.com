@@ -1,0 +1,23 @@
+.footer {
+	background-color: #AAFFFFFF;
+	background-image: url(../images/f3.jpeg);
+	height: auto;
+	padding: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+}
+
+
+.contacts ul li {
+margin-bottom: 10px;
+
+}
+.contacts ul li a{
+	color: #00FF00FF;
+}
+
+.desinger {
+
+}
