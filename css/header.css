@@ -32,7 +32,7 @@
 	margin-left: calc(10px + (100 - 10) * ((100vw - 320px) / (1024 - 320)));
 	font-family: "Twilight";
 	color: #00936CFF;
-	font-size: calc(18px + (60 - 18) * ((100vw - 320px) / (1024 - 320)));
+	font-size: calc(22px + (60 - 22) * ((100vw - 320px) / (1024 - 320)));
 	letter-spacing: 5px;
 
 }
