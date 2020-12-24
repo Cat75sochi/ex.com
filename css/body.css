@@ -10,7 +10,7 @@ h2 {
  }
 
 .first {
-	min-height: 100vh;
+	min-height: 90vh;
 	background-image: url(../images/fon500.jpg);
 	background-repeat: no-repeat;
 	background-position: right top;
